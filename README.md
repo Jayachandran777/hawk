@@ -1,6 +1,8 @@
 # hawk
 investment
 invest 
-record 
+record
+monitor
+review
 regain 
 result
